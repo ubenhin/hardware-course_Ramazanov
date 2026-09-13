@@ -1,0 +1,14 @@
+C:\Users\123\Documents\Prac02\bin\Debug\net8.0\Prac02.exe
+C:\Users\123\Documents\Prac02\bin\Debug\net8.0\Prac02.deps.json
+C:\Users\123\Documents\Prac02\bin\Debug\net8.0\Prac02.runtimeconfig.json
+C:\Users\123\Documents\Prac02\bin\Debug\net8.0\Prac02.dll
+C:\Users\123\Documents\Prac02\bin\Debug\net8.0\Prac02.pdb
+C:\Users\123\Documents\Prac02\obj\Debug\net8.0\Prac02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Documents\Prac02\obj\Debug\net8.0\Prac02.AssemblyInfoInputs.cache
+C:\Users\123\Documents\Prac02\obj\Debug\net8.0\Prac02.AssemblyInfo.cs
+C:\Users\123\Documents\Prac02\obj\Debug\net8.0\Prac02.csproj.CoreCompileInputs.cache
+C:\Users\123\Documents\Prac02\obj\Debug\net8.0\Prac02.dll
+C:\Users\123\Documents\Prac02\obj\Debug\net8.0\refint\Prac02.dll
+C:\Users\123\Documents\Prac02\obj\Debug\net8.0\Prac02.pdb
+C:\Users\123\Documents\Prac02\obj\Debug\net8.0\Prac02.genruntimeconfig.cache
+C:\Users\123\Documents\Prac02\obj\Debug\net8.0\ref\Prac02.dll
